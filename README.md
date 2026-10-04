@@ -5,7 +5,7 @@ TerraForm is an Infrastructure As a Code (IaaC) framework that gives us access t
 Here's my Todo list:
 
 * [ ] Virtual Machines
-    - [ ] AWS
+    - [X] AWS
     - [ ] Azure
     - [ ] GCP
 - [ ] Serverless
